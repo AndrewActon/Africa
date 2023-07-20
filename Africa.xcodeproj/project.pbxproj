@@ -47,6 +47,7 @@
 		BF99D63A2A68BEBA001865E7 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF99D6392A68BEBA001865E7 /* LocationModel.swift */; };
 		BF99D63C2A68C243001865E7 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF99D63B2A68C243001865E7 /* MapAnnotationView.swift */; };
 		BF99D63E2A69CC42001865E7 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF99D63D2A69CC42001865E7 /* MotionAnimationView.swift */; };
+		BF99D6402A69DB88001865E7 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF99D63F2A69DB88001865E7 /* AnimalGridItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -92,6 +93,7 @@
 		BF99D6392A68BEBA001865E7 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		BF99D63B2A68C243001865E7 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		BF99D63D2A69CC42001865E7 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
+		BF99D63F2A69DB88001865E7 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				BF99D6342A689C5A001865E7 /* VideoPlayerView.swift */,
 				BF99D63B2A68C243001865E7 /* MapAnnotationView.swift */,
 				BF99D63D2A69CC42001865E7 /* MotionAnimationView.swift */,
+				BF99D63F2A69DB88001865E7 /* AnimalGridItemView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				BF99D6312A687E10001865E7 /* VideoModel.swift in Sources */,
 				BF99D6142A6722F4001865E7 /* GalleryView.swift in Sources */,
 				BF99D63A2A68BEBA001865E7 /* LocationModel.swift in Sources */,
+				BF99D6402A69DB88001865E7 /* AnimalGridItemView.swift in Sources */,
 				BF99D6292A6735CD001865E7 /* InsetGalleryView.swift in Sources */,
 				BF99D6332A687EB8001865E7 /* VideoListItemView.swift in Sources */,
 				BF99D61F2A67280A001865E7 /* CodableBundleExtension.swift in Sources */,
